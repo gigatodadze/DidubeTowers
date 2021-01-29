@@ -21,7 +21,9 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "bootstrap": "^4.6.0",
         "css-loader": "^5.0.1",
+        "font-awesome": "^4.7.0",
         "preact": "^10.5.12",
         "vue": "^2.6.12"
     }
