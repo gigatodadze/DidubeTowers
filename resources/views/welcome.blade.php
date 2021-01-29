@@ -7,7 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>დიდუბე თაუერსი</title>
     <script src="/js/header.js"></script>
+    <script src="https://kit.fontawesome.com/412b09c484.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/app.css">
     <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/footer.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
 </head>
@@ -60,5 +63,7 @@
      logged_in_greeting="გამარჯობა! რით შემიძლია დაგეხმაროთ? "
      logged_out_greeting="გამარჯობა! რით შემიძლია დაგეხმაროთ? ">
 </div>
+@include('footer')
+
 </body>
 </html>

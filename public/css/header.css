@@ -48,7 +48,7 @@ a {
   backface-visibility: hidden;
   scale: 1 1;
   transform: translateZ(0);
-  background: #1B2030 url(https://images.unsplash.com/photo-1571993142257-eae0b44cf0f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ) 50% 0 no-repeat;
+  background: #1B2030 url(https://images.ZZZ) 50% 0 no-repeat;
   background-size: 100%;
   background-attachment: fixed;
   -webkit-animation: grow 360s linear 10ms infinite;
@@ -120,7 +120,7 @@ a {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: url(https://i.imgur.com/6DLCsZcb.jpg) center no-repeat;
+  background: url(https://www.megadidube.ge/assets/front/images/project.jpg) center no-repeat;
   background-size: cover;
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
   margin-bottom: 3px;

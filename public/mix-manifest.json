@@ -2,5 +2,6 @@
     "/js/app.js": "/js/app.js",
     "/js/header.js": "/js/header.js",
     "/css/header.css": "/css/header.css",
+    "/css/footer.css": "/css/footer.css",
     "/css/app.css": "/css/app.css"
 }
