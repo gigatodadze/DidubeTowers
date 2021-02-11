@@ -1,7 +1,19 @@
 {
-    "/js/app.js": "/js/app.js",
     "/js/header.js": "/js/header.js",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/fancybox.min.js": "/js/fancybox.min.js",
+    "/js/isotope.min.js": "/js/isotope.min.js",
+    "/js/odometer.min.js": "/js/odometer.min.js",
+    "/js/scripts.js": "/js/scripts.js",
+    "/js/swiper.min.js": "/js/swiper.min.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
     "/css/header.css": "/css/header.css",
+    "/css/odometer.css": "/css/odometer.css",
     "/css/footer.css": "/css/footer.css",
-    "/css/app.css": "/css/app.css"
+    "/css/bootstrap.css": "/css/bootstrap.css",
+    "/css/fancybox.css": "/css/fancybox.css",
+    "/css/swiper.css": "/css/swiper.css",
+    "/css/style.css": "/css/style.css",
+    "/css/lineicons.css": "/css/lineicons.css"
 }
